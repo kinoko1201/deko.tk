@@ -106,7 +106,7 @@ ul.footer-menu li {
 display: inline;
 }
 
-button{
+.button{
   position: relative;
   height: 50px;
   width: 90px;
@@ -114,7 +114,7 @@ button{
   cursor: pointer;
 }
 
-img{
+.img{
   position: absolute;
   top: 0;
   left: 0;
